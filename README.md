@@ -1,4 +1,4 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=charneykaye&theme=flat&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **charneykaye/charneykaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
